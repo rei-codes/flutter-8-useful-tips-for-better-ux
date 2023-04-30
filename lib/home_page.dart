@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 import 'pages/always_scrollable.dart';
 import 'pages/auto_focus_on_open.dart';
-import 'pages/ensure_card_visible.dart';
+import 'pages/ensure_text_field_visible.dart';
 import 'pages/next_focus_on_enter.dart';
 import 'pages/remember_scroll_position.dart';
 import 'pages/tap_again_to_exit.dart';
@@ -39,8 +39,8 @@ class HomePage extends StatelessWidget {
               ),
               const SizedBox(height: 20),
               ElevatedButton(
-                child: const Text('Ensure card visible'),
-                onPressed: () => context.push(const EnsureCardVisible()),
+                child: const Text('Ensure texfield is visible'),
+                onPressed: () => context.push(const EnsureTextFieldVisible()),
               ),
               const SizedBox(height: 20),
               ElevatedButton(
