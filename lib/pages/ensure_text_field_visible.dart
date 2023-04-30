@@ -45,7 +45,7 @@ class EnsureTextFieldVisible extends StatelessWidget {
         onPressed: () {
           if (!formKey.currentState!.validate()) {
             // Magic happens here
-            // Gets the item's position and ensure it is visible on the screen
+            // Gets the item's position and ensures it is visible on the screen
             Scrollable.ensureVisible(
               key.currentContext!,
               duration: const Duration(milliseconds: 350),
