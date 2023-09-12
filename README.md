@@ -1,16 +1,6 @@
-# tips
+# 8 Useful Tips for Better UX in Flutter
+## Humanity always pays attention to complex matters, but mostly little improvements make the difference.
 
-A new Flutter project.
+![cover image](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*wzdkaYqsSqXb2l1i543ESQ.jpeg)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+More information about the project: [Medium](https://itnext.io/8-useful-tips-for-better-ux-in-flutter-8fcf372ae543)
